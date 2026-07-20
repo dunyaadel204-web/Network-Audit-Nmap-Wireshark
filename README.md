@@ -44,3 +44,5 @@ Using \*\*Wireshark\*\*, network traffic was captured and analyzed to:
 
 \- \*\*Environment:\*\* Lab / Virtual Network Environments
 
+!\[Wireshark Traffic Analysis](wireshark\_analysis.png)
+
